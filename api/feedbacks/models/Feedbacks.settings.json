@@ -1,0 +1,19 @@
+{
+  "connection": "default",
+  "collectionName": "feedbacks",
+  "info": {
+    "name": "feedbacks",
+    "description": ""
+  },
+  "options": {
+    "timestamps": false
+  },
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "date": {
+      "type": "datetime"
+    }
+  }
+}

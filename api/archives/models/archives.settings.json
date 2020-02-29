@@ -1,0 +1,28 @@
+{
+  "connection": "default",
+  "collectionName": "archives",
+  "info": {
+    "name": "archives"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "currency": {
+      "type": "string"
+    },
+    "sale_rate_nb": {
+      "type": "string"
+    },
+    "sale_rate": {
+      "type": "string"
+    },
+    "purchase_rate": {
+      "type": "string"
+    },
+    "purchase_rate_nb": {
+      "type": "string"
+    }
+  }
+}
